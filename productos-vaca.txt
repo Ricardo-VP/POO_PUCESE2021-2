@@ -1,0 +1,5 @@
+ | Nombre = Queso | Precio = $50.0 | Cantidad = 2 | Dias caducar = 1 | Precio final = $20.0
+ | Nombre = Prueba | Precio = $50.0 | Cantidad = 2 | Tipo = Vegetales | Precio final = $100.0
+ | Nombre = Mantequilla | Precio = $100.0 | Cantidad = 1 | Dias caducar = 2 | Precio final = $40.0
+ | Nombre = Carne | Precio = $20.0 | Cantidad = 5 | Dias caducar = 3 | Precio final = $70.0
+ | Nombre = Jamon | Precio = $10.0 | Cantidad = 10 | Dias caducar = 4 | Precio final = $100.0

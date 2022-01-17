@@ -1,0 +1,1 @@
+ | Nombre = Queso | Precio = $50.0 | Cantidad = 2 | Dias caducar = 1 | Precio final = $20.0

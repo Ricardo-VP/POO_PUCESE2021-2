@@ -1,0 +1,1 @@
+Perecedero [dias_caducar=1, toString()=Producto [nombre=Queso, precio=50.0, cantidad=2]], calculo = 20.0
