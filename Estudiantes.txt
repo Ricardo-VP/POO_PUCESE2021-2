@@ -1,0 +1,3 @@
+Vaca Ricardo Base de Datos I Parcial 1: 10 Parcial 2: 9 Parcial 3: 9 Promedio: 9.33 
+Prueba Nombre Base de Datos I Parcial 1: 7 Parcial 2: 7 Parcial 3: 7 Promedio: 7.0 
+Apellidos | Nombres | Programacion Orientada a Objetos Parcial 1: 10 | Parcial 2: 8.75 | Parcial 3: 10 | Promedio: 9.58 | 
